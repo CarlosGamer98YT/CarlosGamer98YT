@@ -5,7 +5,7 @@ I'm **Carlos**, a tech enthusiast deeply passionate about computing and systems.
 In my repositories, you'll find some really exciting projects, such as:
 * 🌍 **[gnuLinEx](https://github.com/CarlosGamer98YT/gnuLinEx)** & **[gnuLinEx Legacy](https://github.com/CarlosGamer98YT/gnuLinEx-Legacy)** – Operating systems deeply rooted in my homeland of Extremadura.
 * 🧩 **[everythingMichiru](https://github.com/CarlosGamer98YT/everythingMichiru)** – A custom browser extension.
-* 🌐 **[Michiru-NTB-Extension](https://github.com/CarlosGamer98YT/Michiru-NTB-Extension)** – A custom New-Tab-Browser extension.
+* 🌐 **[Michiru-NTP-Extension](https://github.com/CarlosGamer98YT/Michiru-NTP-Extension)** – A custom New-Tab-Page extension.
 
 As you can tell, I'm naturally curious and love to explore, tinker, and modify things—or as we say in Extremadura<img src="https://openmoji.org/data/color/svg/1F3F4-E0065-E0073-E0065-E0078-E007F.svg" height="32" width="32" align="middle">
 , I love to *"cacharreá"*. I also develop Android applications; in fact, I'm currently volunteering to build a global app for the **Scouts**! ⚜️ ^^
