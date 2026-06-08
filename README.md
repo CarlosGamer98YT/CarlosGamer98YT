@@ -7,7 +7,7 @@ In my repositories, you'll find some really exciting projects, such as:
 * 🧩 **[everythingMichiru](https://github.com/CarlosGamer98YT/everythingMichiru)** – A custom browser extension.
 * 🌐 **[Michiru-NTB-Extension](https://github.com/CarlosGamer98YT/Michiru-NTB-Extension)** – A custom New-Tab-Browser extension.
 
-As you can tell, I'm naturally curious and love to explore, tinker, and modify things—or as we say in Extremadura&#x1F3F4;&#xE0065;&#xE0073;&#xE0065;&#xE0078;&#xE007F;
+As you can tell, I'm naturally curious and love to explore, tinker, and modify things—or as we say in Extremadura&#x1F3F4;&#x00065;&#x00073;&#x00065;&#x00078;&#x0007F;
 , I love to *"cacharreá"*. I also develop Android applications; in fact, I'm currently volunteering to build a global app for the **Scouts**! ⚜️ ^^
 
 ---
