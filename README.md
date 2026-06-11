@@ -1,6 +1,26 @@
 # Hi there! 👋
 
+### About me:
+
 I'm **Carlos**, a tech enthusiast deeply passionate about computing and systems. While hardcore programming isn't my main focus, I'm always ready to roll up my sleeves and dive into the code when a project calls for it.
+
+I hold degrees in
+---
+* Technician in Microcomputer Systems and Networks
+* Higher Technician in Multi-platform Application Development
+
+How I work
+---
+I mainly work alone, but I can work in groups perfectly
+
+Where I worked
+---
+I worked as internship in:
+CH Instalaciones Eléctricas (Spain) as Technician in Microcomputer Systems and Networks
+UNEX (Spain) in the SICUE as Higher Technician in Multi-platform Application Development
+
+Repositories
+---
 
 In my repositories, you'll find some really exciting projects, such as:
 * 🌍 **[gnuLinEx](https://github.com/CarlosGamer98YT/gnuLinEx)** & **[gnuLinEx Legacy](https://github.com/CarlosGamer98YT/gnuLinEx-Legacy)** – Operating systems deeply rooted in my homeland of Extremadura.
